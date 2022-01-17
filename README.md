@@ -8,8 +8,7 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
 Untuk belajar tentang cara menggunakan Colab, silahkan mengunjungi link berikut [ini](https://colab.research.google.com/notebooks/welcome.ipynb?hl=id)
 
 ## Data
-Data yang akan digunakan untuk workshop kali ini adalah datadata *'Bike Sales'* yaitu data penjualan dari sebuah toko sepeda yang dapat didownload 
-melalui link [ini](https://github.com/richardcsuwandi/ppsdcw2/blob/main/bike_sales.csv).
+Data yang akan digunakan untuk workshop kali ini adalah data *'Bike Sales'* dapat didownload melalui link [ini](https://github.com/richardcsuwandi/ppsdcw2/blob/main/bike_sales.csv).
 
 ## References
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
