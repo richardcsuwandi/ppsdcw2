@@ -20,7 +20,7 @@ Untuk belajar tentang cara menggunakan Colab, silahkan mengunjungi link berikut 
   - Visualisasi Data
 
 ## Data
-Data yang akan digunakan untuk workshop kali ini adalah data `bike_sales.csv` yang dapat didownload melalui link [ini](https://github.com/richardcsuwandi/ppsdcw2/blob/main/bike_sales.csv).
+Data yang akan digunakan untuk workshop kali ini adalah data `bike_sales.csv` yang dapat didownload melalui link [ini](https://github.com/richardcsuwandi/ppsdcw2/blob/main/bike_sales.csv)
 
 ## References
 - https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
