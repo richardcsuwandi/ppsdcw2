@@ -8,14 +8,16 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
 Untuk belajar tentang cara menggunakan Colab, silahkan mengunjungi link berikut [ini](https://colab.research.google.com/notebooks/welcome.ipynb?hl=id)
 
 ## Table of Contents
-- Apa itu Pandas?
-- Menginstall Pandas
-- Menggunakan Pandas
-  - Membaca Data di Pandas
+- Apa itu Data Analysis?
+- Mengapa Python?
+- Libraries dan Tools untuk Data Analysis
+- Studi Kasus
+  - Membaca Data
   - Melihat Data
-  - Memilih Baris dan Kolom
-  - Memfilter Data di Pandas
-  - Visualisasi Data di Pandas
+  - Memilih Data
+  - Memfilter Data
+  - Sorting dan Grouping Data
+  - Visualisasi Data
 
 ## Data
 Data yang akan digunakan untuk workshop kali ini adalah data `bike_sales.csv` yang dapat didownload melalui link [ini](https://github.com/richardcsuwandi/ppsdcw2/blob/main/bike_sales.csv).
