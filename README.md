@@ -7,7 +7,7 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
 
 Untuk belajar tentang cara menggunakan Colab, silahkan mengunjungi link berikut [ini](https://colab.research.google.com/notebooks/welcome.ipynb?hl=id)
 
-##  Table of Contents
+## Table of Contents
 - Apa itu Data Analysis?
 - Mengapa Python?
 - Libraries dan Tools untuk Data Analysis
@@ -19,7 +19,7 @@ Untuk belajar tentang cara menggunakan Colab, silahkan mengunjungi link berikut 
   - Sorting dan Grouping Data
   - Visualisasi Data
 
-##  Data
+## Data
 Data yang akan digunakan untuk workshop kali ini adalah data `bike_sales.csv` yang dapat didownload melalui link [ini](https://github.com/richardcsuwandi/ppsdcw2/blob/main/bike_sales.csv)
 
 ## References
